@@ -1,6 +1,6 @@
 # Farcaster Followback Frame
 
-A Farcaster-based frame how many users are not following you back just with one click. This frame leverages the Airstack API for following management and integrates with modern frameworks to deliver a seamless experience.
+A Farcaster-based frame to check how many users are not following you back just with one click. This frame leverages the Airstack API for following management and integrates with modern frameworks to deliver a seamless experience.
 
 ## Features
 - **Checks the number of users who are not following you back**: Get the number of users who are not following you back.
